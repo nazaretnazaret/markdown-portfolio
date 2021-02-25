@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[are.na](https://www.are.na/debra-ramirez)
