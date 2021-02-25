@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Dancing
+* Watching Films
+  * Trashy 80s films
+  * Giallo films
+  * Indie directors
+* Painting
